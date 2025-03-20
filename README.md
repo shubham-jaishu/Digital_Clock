@@ -43,12 +43,12 @@ This project demonstrates:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/digital-clock-app.git
+   git clone https://github.com/shubham-jaishu/Digital_Clock.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd digital-clock-app
+   cd Digital_Clock
    ```
 
 3. Open the `index.html` file in your browser:
